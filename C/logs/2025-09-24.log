@@ -1,0 +1,394 @@
+[2025-09-24 15:07:31,923] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:07:31,924] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:07:31,924] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:07:31,924] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:07:31,925] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:07:31,925] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:07:31,926] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:07:31,926] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:07:31,926] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:07:31,934] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 15:07:31,934] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 15:07:31,935] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 15:07:31,935] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 15:16:45,196] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:16:45,196] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:16:45,197] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:16:45,197] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:16:45,198] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:16:45,204] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 15:16:45,205] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 15:23:17,932] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 15:23:17,933] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 15:23:19,957] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:23:19,958] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend\金融就业服务系统\金融就业服务系统\finance-employment\dist
+[2025-09-24 15:23:19,958] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:23:19,959] [app] [INFO] <module>: 前端目录内容: ['assets', 'favicon.ico', 'index.html']
+[2025-09-24 15:23:19,959] [app] [INFO] <module>: HTML文件: ['index.html']
+[2025-09-24 15:23:19,971] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 15:23:19,972] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 15:43:04,130] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:43:04,131] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:43:04,132] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:43:04,133] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:43:04,133] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:43:04,146] [app] [INFO] <module>: 服务器地址: http://127.0.0.1:8080
+[2025-09-24 15:43:04,146] [app] [INFO] <module>: FastAPI 文档地址: http://127.0.0.1:8080/docs
+[2025-09-24 15:43:05,962] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:43:05,963] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:43:05,963] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:43:05,964] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:43:05,964] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:44:13,704] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:44:13,705] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:44:13,705] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:44:13,706] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:44:13,706] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:45:41,008] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:45:41,009] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:45:41,010] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:45:41,010] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:45:41,011] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:45:41,016] [app] [INFO] <module>: 服务器地址: http://127.0.0.1:8080
+[2025-09-24 15:45:41,017] [app] [INFO] <module>: FastAPI 文档地址: http://127.0.0.1:8080/docs
+[2025-09-24 15:45:42,627] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:45:42,628] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:45:42,628] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:45:42,629] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:45:42,629] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:45:42,710] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:45:42,711] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:45:42,711] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:45:42,712] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:45:42,712] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:45:42,719] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 15:45:42,719] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 15:53:48,457] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:53:48,458] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:53:48,459] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:53:48,460] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:53:48,461] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:53:48,472] [app] [INFO] <module>: 服务器地址: http://127.0.0.1:8080
+[2025-09-24 15:53:48,472] [app] [INFO] <module>: FastAPI 文档地址: http://127.0.0.1:8080/docs
+[2025-09-24 15:53:50,451] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:53:50,452] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:53:50,452] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:53:50,453] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:53:50,453] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:53:50,576] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 15:53:50,577] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 15:53:50,579] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 15:53:50,580] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 15:53:50,580] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 15:53:50,590] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 15:53:50,591] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:11:49,661] [app] [INFO] login: 收到登录请求: 李华
+[2025-09-24 16:11:49,678] [app] [WARNING] login: 用户 李华 不存在或密码错误，抛出 401
+[2025-09-24 16:11:54,771] [app] [INFO] login: 收到登录请求: 李华
+[2025-09-24 16:11:54,776] [app] [WARNING] login: 用户 李华 不存在或密码错误，抛出 401
+[2025-09-24 16:14:22,915] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 16:14:22,919] [app] [WARNING] login: 用户 李中华 不存在或密码错误，抛出 401
+[2025-09-24 16:14:27,691] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 16:14:27,696] [app] [WARNING] login: 用户 李中华 不存在或密码错误，抛出 401
+[2025-09-24 16:16:59,568] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 16:16:59,570] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 16:17:01,440] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:17:01,441] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:17:01,442] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:17:01,443] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:17:01,443] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:17:01,579] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:17:01,580] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:17:01,580] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:17:01,581] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:17:01,581] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:17:01,588] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 16:17:01,588] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:17:09,923] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 16:17:09,924] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 16:17:12,006] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:17:12,007] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:17:12,007] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:17:12,008] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:17:12,008] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:17:12,153] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:17:12,154] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:17:12,156] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:17:12,157] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:17:12,158] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:17:12,173] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 16:17:12,174] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:17:53,682] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 16:17:53,683] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 16:17:55,782] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:17:55,783] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:17:55,783] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:17:55,784] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:17:55,784] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:17:55,878] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:17:55,879] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:17:55,880] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:17:55,880] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:17:55,880] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:17:55,891] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 16:17:55,891] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:18:36,862] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 16:18:36,864] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 16:18:38,841] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:18:38,842] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:18:38,843] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:18:38,844] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:18:38,844] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:18:38,974] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:18:38,975] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:18:38,975] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:18:38,976] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:18:38,976] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:18:38,982] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 16:18:38,983] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:35:46,819] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:35:46,819] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:35:46,819] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:35:46,822] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:35:46,824] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:35:46,830] [app] [INFO] <module>: 服务器地址: http://127.0.0.1:8080
+[2025-09-24 16:35:46,830] [app] [INFO] <module>: FastAPI 文档地址: http://127.0.0.1:8080/docs
+[2025-09-24 16:35:48,062] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:35:48,062] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:35:48,063] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:35:48,063] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:35:48,064] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:35:48,142] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:35:48,143] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:35:48,144] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:35:48,144] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:35:48,145] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:35:48,151] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 16:35:48,151] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:38:48,470] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 16:38:48,479] [app] [WARNING] login: 用户 李中华 不存在或密码错误，抛出 401
+[2025-09-24 16:40:33,102] [app] [INFO] login: 收到登录请求: testuser
+[2025-09-24 16:40:33,598] [app] [DEBUG] login: 为用户 testuser 创建 access_token ...
+[2025-09-24 16:41:51,860] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 16:41:51,861] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 16:41:53,206] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:41:53,207] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:41:53,207] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:41:53,208] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:41:53,208] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:41:53,279] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:41:53,279] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:41:53,279] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:41:53,280] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:41:53,280] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:41:53,285] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 16:41:53,285] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:42:10,531] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 16:42:10,532] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 16:42:11,947] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:42:11,947] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:42:11,948] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:42:11,948] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:42:11,949] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:42:12,007] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:42:12,007] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:42:12,008] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:42:12,008] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:42:12,008] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:42:12,013] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 16:42:12,013] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:42:19,836] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 16:42:19,837] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 16:42:21,283] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:42:21,284] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:42:21,284] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:42:21,284] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:42:21,285] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:42:21,347] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:42:21,347] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:42:21,347] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:42:21,348] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:42:21,348] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:42:21,353] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 16:42:21,354] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:43:38,688] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 16:43:38,689] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 16:43:40,050] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:43:40,051] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:43:40,051] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:43:40,051] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:43:40,051] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:43:40,132] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:43:40,133] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:43:40,133] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:43:40,133] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:43:40,133] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:43:40,141] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 16:43:40,141] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:43:46,526] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:43:46,526] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:43:46,526] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:43:46,527] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:43:46,527] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:43:46,531] [app] [INFO] <module>: 服务器地址: http://127.0.0.1:8080
+[2025-09-24 16:43:46,532] [app] [INFO] <module>: FastAPI 文档地址: http://127.0.0.1:8080/docs
+[2025-09-24 16:43:47,668] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:43:47,668] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:43:47,668] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:43:47,669] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:43:47,669] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:43:47,731] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 16:43:47,731] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 16:43:47,732] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 16:43:47,732] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 16:43:47,732] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 16:43:47,738] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 16:43:47,738] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 16:45:45,747] [app] [INFO] login: 收到登录请求: testuser
+[2025-09-24 16:45:46,049] [app] [DEBUG] login: 为用户 testuser 创建 access_token ...
+[2025-09-24 16:46:10,143] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 16:46:10,143] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 17:00:57,166] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 17:00:57,167] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 17:00:57,167] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 17:00:57,168] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 17:00:57,168] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 17:00:57,175] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 17:00:57,175] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 17:04:53,077] [app] [INFO] login: 收到登录请求: testuser
+[2025-09-24 17:04:53,584] [app] [DEBUG] login: 为用户 testuser 创建 access_token ...
+[2025-09-24 17:06:12,504] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 17:06:12,509] [app] [WARNING] login: 用户 李中华 不存在或密码错误，抛出 401
+[2025-09-24 17:07:36,999] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 17:07:37,000] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 17:07:38,532] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 17:07:38,532] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 17:07:38,532] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 17:07:38,533] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 17:07:38,533] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 17:07:38,539] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 17:07:38,539] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 17:07:50,523] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 17:07:50,525] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 17:07:52,494] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 17:07:52,494] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 17:07:52,495] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 17:07:52,495] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 17:07:52,496] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 17:07:52,501] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 17:07:52,501] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 17:14:02,178] [app] [INFO] login: 收到登录请求: testuser
+[2025-09-24 17:14:02,471] [app] [DEBUG] login: 为用户 testuser 创建 access_token ...
+[2025-09-24 17:14:26,897] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 17:14:26,898] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 17:14:28,875] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 17:14:28,875] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 17:14:28,876] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 17:14:28,876] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 17:14:28,877] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 17:14:28,883] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 17:14:28,883] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 17:14:59,004] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 17:14:59,005] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 17:15:01,360] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 17:15:01,361] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 17:15:01,362] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 17:15:01,362] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 17:15:01,363] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 17:15:01,369] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 17:15:01,370] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 17:16:18,662] [app] [INFO] register: 收到注册请求: testuser_new
+[2025-09-24 17:16:19,055] [app] [INFO] register: 用户 testuser_new 注册成功
+[2025-09-24 17:16:19,073] [app] [INFO] login: 收到登录请求: testuser
+[2025-09-24 17:16:19,403] [app] [DEBUG] login: 为用户 testuser 创建 access_token ...
+[2025-09-24 17:16:19,404] [app] [INFO] login: 用户 testuser 登录成功, 密钥后五位 hAHYg
+[2025-09-24 19:15:17,665] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 19:15:17,665] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 19:15:17,665] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 19:15:17,666] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 19:15:17,666] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 19:15:17,672] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 19:15:17,672] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 19:17:49,272] [app] [INFO] login: 收到登录请求: testuser
+[2025-09-24 19:17:49,773] [app] [DEBUG] login: 为用户 testuser 创建 access_token ...
+[2025-09-24 19:17:49,778] [app] [INFO] login: 用户 testuser 登录成功, 密钥后五位 -tGNs
+[2025-09-24 19:19:04,146] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 19:19:04,151] [app] [WARNING] login: 用户 李中华 不存在或密码错误，抛出 401
+[2025-09-24 19:19:22,872] [app] [INFO] login: 收到登录请求: testuser
+[2025-09-24 19:19:23,322] [app] [DEBUG] login: 为用户 testuser 创建 access_token ...
+[2025-09-24 19:19:23,324] [app] [INFO] login: 用户 testuser 登录成功, 密钥后五位 P11AE
+[2025-09-24 19:20:23,319] [app] [INFO] login: 收到登录请求: 
+[2025-09-24 19:20:23,323] [app] [WARNING] login: 用户  不存在或密码错误，抛出 401
+[2025-09-24 19:20:42,095] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 19:20:42,099] [app] [WARNING] login: 用户 李中华 不存在或密码错误，抛出 401
+[2025-09-24 19:28:01,096] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 19:28:01,098] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 19:28:02,684] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 19:28:02,684] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 19:28:02,685] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 19:28:02,685] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 19:28:02,685] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 19:28:02,691] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 19:28:02,692] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 19:28:10,929] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 19:28:10,930] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 19:28:12,314] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 19:28:12,315] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 19:28:12,316] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 19:28:12,316] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 19:28:12,317] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 19:28:12,326] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 19:28:12,326] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 19:29:10,384] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 19:29:10,385] [app] [INFO] lifespan: 已安全退出
+[2025-09-24 19:31:11,821] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 19:31:11,822] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 19:31:11,822] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 19:31:11,823] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 19:31:11,823] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 19:31:11,828] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 19:31:11,829] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 19:31:12,341] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 19:31:12,341] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 19:31:12,341] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 19:31:12,342] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 19:31:12,342] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 19:31:12,347] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 19:31:12,347] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 19:32:48,020] [app] [INFO] register: 收到注册请求: testuser_new
+[2025-09-24 19:32:48,026] [app] [WARNING] register: 用户名 testuser_new 已存在，抛出 400
+[2025-09-24 19:39:49,480] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 19:39:49,480] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 19:39:49,480] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 19:39:49,480] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 19:39:49,481] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 19:39:49,485] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 19:39:49,486] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 19:40:27,355] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 19:40:27,360] [app] [WARNING] login: 用户 李中华 不存在或密码错误，抛出 401
+[2025-09-24 19:40:53,411] [app] [INFO] register: 收到注册请求: 李中华
+[2025-09-24 19:40:53,895] [app] [INFO] register: 用户 李中华 注册成功
+[2025-09-24 19:40:54,976] [app] [INFO] register: 收到注册请求: 李中华
+[2025-09-24 19:40:54,979] [app] [WARNING] register: 用户名 李中华 已存在，抛出 400
+[2025-09-24 19:40:55,224] [app] [INFO] register: 收到注册请求: 李中华
+[2025-09-24 19:40:55,227] [app] [WARNING] register: 用户名 李中华 已存在，抛出 400
+[2025-09-24 19:40:58,784] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 19:40:59,226] [app] [DEBUG] login: 为用户 李中华 创建 access_token ...
+[2025-09-24 19:40:59,227] [app] [INFO] login: 用户 李中华 登录成功, 密钥后五位 UHlJE
+[2025-09-24 20:39:33,222] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-24 20:39:33,222] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-24 20:39:33,223] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-24 20:39:33,223] [app] [INFO] <module>: 前端目录内容: ['金融就业服务系统']
+[2025-09-24 20:39:33,224] [app] [INFO] <module>: HTML文件: []
+[2025-09-24 20:39:33,231] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-24 20:39:33,232] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-24 20:40:34,072] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 20:40:34,647] [app] [WARNING] login: 用户 李中华 不存在或密码错误，抛出 401
+[2025-09-24 20:40:41,577] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 20:40:42,109] [app] [DEBUG] login: 为用户 李中华 创建 access_token ...
+[2025-09-24 20:40:42,113] [app] [INFO] login: 用户 李中华 登录成功, 密钥后五位 2B118
+[2025-09-24 20:41:26,639] [app] [INFO] login: 收到登录请求: 李中华
+[2025-09-24 20:41:27,271] [app] [DEBUG] login: 为用户 李中华 创建 access_token ...
+[2025-09-24 20:41:27,272] [app] [INFO] login: 用户 李中华 登录成功, 密钥后五位 7slPk
+[2025-09-24 21:30:58,839] [app] [INFO] lifespan: 正在退出...
+[2025-09-24 21:30:58,843] [app] [INFO] lifespan: 已安全退出

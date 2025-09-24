@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/FinancialCareerCommunity.egg-info/PKG-INFO
+src/FinancialCareerCommunity.egg-info/SOURCES.txt
+src/FinancialCareerCommunity.egg-info/dependency_links.txt
+src/FinancialCareerCommunity.egg-info/requires.txt
+src/FinancialCareerCommunity.egg-info/top_level.txt
+tests/test_auth.py

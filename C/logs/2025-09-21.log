@@ -1,0 +1,21 @@
+[2025-09-21 01:41:06,591] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-21 01:41:06,592] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-21 01:41:06,592] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-21 01:41:06,593] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html', '金融就业服务系统']
+[2025-09-21 01:41:06,593] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-21 01:41:06,675] [app] [INFO] <module>: 服务器地址: http://127.0.0.1:8080
+[2025-09-21 01:41:06,676] [app] [INFO] <module>: FastAPI 文档地址: http://127.0.0.1:8080/docs
+[2025-09-21 01:41:06,776] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-21 01:41:06,776] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-21 01:58:20,831] [app] [INFO] lifespan: 正在退出...
+[2025-09-21 01:58:20,836] [app] [INFO] lifespan: 已安全退出
+[2025-09-21 01:58:30,965] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-21 01:58:30,966] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-21 01:58:30,966] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-21 01:58:30,966] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html', '金融就业服务系统']
+[2025-09-21 01:58:30,967] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-21 01:58:31,027] [app] [INFO] <module>: 服务器地址: http://127.0.0.1:8080
+[2025-09-21 01:58:31,027] [app] [INFO] <module>: FastAPI 文档地址: http://127.0.0.1:8080/docs
+[2025-09-21 01:58:31,099] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-21 01:58:31,100] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-21 01:59:04,677] [app] [INFO] login: 收到登录请求: 李华

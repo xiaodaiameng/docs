@@ -1,0 +1,36 @@
+[2025-09-20 00:07:57,333] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-20 00:07:57,333] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-20 00:07:57,334] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-20 00:07:57,334] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-20 00:07:57,334] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-20 00:07:57,336] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-20 00:07:57,336] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-20 00:08:41,978] [app] [INFO] root: 查找登录文件: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend\login.html
+[2025-09-20 00:08:41,979] [app] [INFO] root: 登录文件是否存在: True
+[2025-09-20 00:11:48,036] [app] [INFO] login: 收到登录请求: test
+[2025-09-20 00:15:40,988] [app] [INFO] lifespan: 正在退出...
+[2025-09-20 00:15:40,989] [app] [INFO] lifespan: 已安全退出
+[2025-09-20 00:15:41,869] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-20 00:15:41,869] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-20 00:15:41,870] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-20 00:15:41,870] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-20 00:15:41,870] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-20 00:15:41,872] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-20 00:15:41,872] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-20 00:16:10,720] [app] [INFO] lifespan: 正在退出...
+[2025-09-20 00:16:10,720] [app] [INFO] lifespan: 已安全退出
+[2025-09-20 00:18:21,874] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-20 00:18:21,874] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-20 00:18:21,874] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-20 00:18:21,875] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-20 00:18:21,875] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-20 00:18:21,905] [app] [INFO] <module>: 服务器地址: http://127.0.0.1:8080
+[2025-09-20 00:18:21,905] [app] [INFO] <module>: FastAPI 文档地址: http://127.0.0.1:8080/docs
+[2025-09-20 00:18:21,943] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-20 00:18:21,943] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-20 00:18:23,964] [app] [INFO] root: 查找登录文件: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend\login.html
+[2025-09-20 00:18:23,965] [app] [INFO] root: 登录文件是否存在: True
+[2025-09-20 00:18:40,957] [app] [INFO] register: 开始注册用户: 李华
+[2025-09-20 00:18:58,380] [app] [INFO] login: 收到登录请求: 李华
+[2025-09-20 00:19:45,036] [app] [INFO] lifespan: 正在退出...
+[2025-09-20 00:19:45,036] [app] [INFO] lifespan: 已安全退出

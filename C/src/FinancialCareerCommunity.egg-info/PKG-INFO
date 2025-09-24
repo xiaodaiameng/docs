@@ -1,0 +1,155 @@
+Metadata-Version: 2.4
+Name: FinancialCareerCommunity
+Version: 0.1.0
+Summary: A web application for managing a financial career community.
+Author-email: "Muika(@Moemu)" <i@snowy.moe>
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: aiosqlite>=0.21.0
+Requires-Dist: bcrypt>=4.3.0
+Requires-Dist: colorlog>=6.9.0
+Requires-Dist: fastapi>=0.116.2
+Requires-Dist: httpx>=0.28.1
+Requires-Dist: passlib>=1.7.4
+Requires-Dist: pre-commit>=4.3.0
+Requires-Dist: pydantic>=2.11.9
+Requires-Dist: pydantic-settings>=2.10.1
+Requires-Dist: pyjwt>=2.10.1
+Requires-Dist: python-dotenv>=1.1.1
+Requires-Dist: python-multipart>=0.0.20
+Requires-Dist: redis>=6.4.0
+Requires-Dist: setuptools>=80.9.0
+Requires-Dist: sqlalchemy>=2.0.43
+Requires-Dist: uvicorn>=0.35.0
+Provides-Extra: test
+Requires-Dist: coverage>=7.10.6; extra == "test"
+Requires-Dist: coverage-badge>=1.1.2; extra == "test"
+Requires-Dist: pytest>=7.4.2; extra == "test"
+Requires-Dist: pytest-cov>=4.1.0; extra == "test"
+Requires-Dist: pytest-asyncio>=1.2.0; extra == "test"
+Requires-Dist: gevent==25.9.1; extra == "test"
+Dynamic: license-file
+
+# FinancialCareerCommunity Backend
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Black CodeStyle](https://img.shields.io/badge/Code%20Style-Black-121110.svg)
+![wakatime](https://wakatime.com/badge/user/637d5886-8b47-4b82-9264-3b3b9d6add67/project/d6391b48-7f4e-46ad-94f1-34221f72a2ed.svg)
+[![Test and Coverage](https://github.com/Moemu/FinancialCareerCommunity/actions/workflows/pytest.yaml/badge.svg)](https://github.com/Moemu/FinancialCareerCommunity/actions/workflows/pytest.yaml)
+![coverage](./src/coverage.svg)
+
+别急，还没开始写.
+
+## 快速开始
+
+要求:
+
+- [uv](https://docs.astral.sh/uv/)
+- `Python > 3.11`
+
+**安装依赖:**
+
+```shell
+uv sync
+```
+
+或者：
+
+```shell
+pip install .
+```
+
+**运行**
+
+```shell
+uv run app.main:app --reload
+```
+
+或者
+
+```shell
+python -m app.main
+```
+
+## API 文档
+
+默认本地 FastAPI 文档: <http://127.0.0.1:8080/docs>
+
+APIFox 文档: <https://2v5c0iiid5.apifox.cn/>
+
+<!-- ## 文件树结构 -->
+
+<!-- ```
+FinancialCareerCommunity/
+├── app/                                # 主要的应用代码目录
+│   ├── __init__.py
+│   ├── main.py                         # FastAPI 应用入口文件
+│   │
+│   ├── api/                            # API 路由层
+│   │   ├── __init__.py
+│   │   └── v1/                         # API 版本 v1
+│   │       ├── __init__.py
+│   │       ├── api.py                  # 聚合所有 v1 版本的路由
+│   │       └── endpoints/              # 各功能模块的路由文件
+│   │           ├── __init__.py
+│   │           ├── users.py            # 用户系统 (注册, 登录, 个人主页)
+│   │           ├── assessments.py      # 职业测评系统
+│   │           ├── careers.py          # 职业地图 (行业图谱, 岗位)
+│   │           ├── plans.py            # 路径规划
+│   │           ├── information.py      # 信息聚合 (招聘, 实习)
+│   │           ├── community.py        # 社区与互动 (论坛, 内推)
+│   │           └── services.py         # 工具与服务 (简历, 面试题库)
+│   │
+│   ├── core/                           # 核心配置与功能
+│   │   ├── __init__.py
+│   │   ├── config.py                   # 应用配置 (环境变量, 密钥等)
+│   │   └── security.py                 # 安全相关 (密码哈希, JWT令牌)
+│   │
+│   ├── crud/                           # CRUD (Create, Read, Update, Delete) 数据库操作
+│   │   ├── __init__.py
+│   │   ├── base.py                     # CRUD 基类
+│   │   ├── crud_user.py                # 用户的 CRUD 操作
+│   │   ├── crud_assessment.py          # 测评的 CRUD 操作
+│   │   └── ...                         # 其他模型的 CRUD 文件
+│   │
+│   ├── db/                             # 数据库相关
+│   │   ├── __init__.py
+│   │   ├── base.py                     # ORM 模型基类 (DeclarativeBase)
+│   │   └── session.py                  # 数据库会话管理
+│   │
+│   ├── models/                         # ORM 数据模型 (对应数据库表)
+│   │   ├── __init__.py
+│   │   ├── user.py                     # 用户模型
+│   │   ├── assessment.py               # 测评结果模型
+│   │   ├── career_path.py              # 职业路径模型
+│   │   ├── post.py                     # 社区帖子模型
+│   │   └── ...                         # 其他数据模型
+│   │
+│   ├── schemas/                        # Pydantic 数据校验模型 (用于 API 请求和响应)
+│   │   ├── __init__.py
+│   │   ├── user.py                     # 用户相关的 Schema
+│   │   ├── token.py                    # Token Schema
+│   │   ├── assessment.py               # 测评相关的 Schema
+│   │   └── ...                         # 其他功能模块的 Schema
+│   │
+│   └── services/                       # 业务逻辑层
+│       ├── __init__.py
+│       ├── authentication_service.py   # 用户认证服务
+│       ├── assessment_service.py       # 测评业务逻辑
+│       └── web_scraper_service.py      # 网页爬虫服务 (用于信息聚合)
+│
+├── tests/                              # 测试目录
+│   ├── __init__.py
+│   ├── conftest.py                     # Pytest 配置文件
+│   └── test_api/                       # API 测试
+│       └── v1/
+│           └── test_users.py           # 用户相关的 API 测试
+│
+├── .env                                # 环境变量文件 (示例)
+├── .gitignore                          # Git 忽略文件
+├── alembic.ini                         # Alembic 数据库迁移工具配置
+├── alembic/                            # Alembic 迁移脚本目录
+├── prestart.sh                         # (可选) 启动前运行的脚本, 如执行数据库迁移
+└── requirements.txt                    # Python 依赖包列表
+``` -->

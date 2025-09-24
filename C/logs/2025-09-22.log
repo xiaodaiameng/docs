@@ -1,0 +1,91 @@
+[2025-09-22 00:43:19,906] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-22 00:43:19,908] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-22 00:43:19,909] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-22 00:43:19,910] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html', '金融就业服务系统']
+[2025-09-22 00:43:19,911] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-22 00:43:19,921] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-22 00:43:19,923] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-22 00:44:56,042] [app] [INFO] login: 收到登录请求: 李华
+[2025-09-22 00:45:42,101] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-22 00:45:42,102] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-22 00:45:42,103] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-22 00:45:42,104] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html', '金融就业服务系统']
+[2025-09-22 00:45:42,105] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-22 00:45:42,116] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-22 00:45:42,117] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-22 00:46:11,133] [app] [INFO] login: 收到登录请求: 李华
+[2025-09-22 00:46:34,391] [app] [INFO] lifespan: 正在退出...
+[2025-09-22 00:46:34,392] [app] [INFO] lifespan: 已安全退出
+[2025-09-22 01:11:01,750] [app] [ERROR] run_crawler_background: 爬虫[crawler_test_4c77ce5e]执行失败: object int can't be used in 'await' expression
+Traceback (most recent call last):
+  File "D:\PythonCode\PyCrawler\FinancialCareerCommunity\app\api\auth.py", line 141, in run_crawler_background
+    await redis.hset(crawler_id, "status", CRAWLER_STATUS["WAITING_VERIFY"])
+TypeError: object int can't be used in 'await' expression
+[2025-09-22 01:12:48,085] [app] [INFO] run_crawler_background: 爬虫[crawler_test_6e1d918b]无Cookie，等待用户验证
+[2025-09-22 01:15:54,797] [app] [ERROR] handle_verification_and_crawl: 爬虫[crawler_test_6e1d918b]验证超时
+[2025-09-22 01:17:32,942] [app] [INFO] run_crawler_background: 爬虫[crawler_test_785663ea]无Cookie，等待用户验证
+[2025-09-22 01:17:39,230] [app] [INFO] handle_verification_and_crawl: 爬虫[crawler_test_785663ea]已保存用户Cookie
+[2025-09-22 01:17:39,614] [app] [ERROR] handle_verification_and_crawl: 爬虫[crawler_test_785663ea]验证和爬取过程中出错: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+Traceback (most recent call last):
+  File "D:\PythonCode\PyCrawler\FinancialCareerCommunity\app\api\auth.py", line 258, in handle_verification_and_crawl
+    links = get_zhaopinContent(cookie_path=cookie_path)
+  File "D:\PythonCode\PyCrawler\FinancialCareerCommunity\app\services\crawler.py", line 44, in get_zhaopinContent
+    with sync_playwright() as p:
+         ~~~~~~~~~~~~~~~^^
+  File "D:\Python\Lib\site-packages\playwright\sync_api\_context_manager.py", line 47, in __enter__
+                raise Error(
+    ...<2 lines>...
+                )
+playwright._impl._errors.Error: It looks like you are using Playwright Sync API inside the asyncio loop.
+Please use the Async API instead.
+[2025-09-22 01:22:30,237] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-22 01:22:30,237] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-22 01:22:30,237] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-22 01:22:30,238] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html', '金融就业服务系统']
+[2025-09-22 01:22:30,238] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-22 01:22:30,242] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-22 01:22:30,242] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-22 01:22:35,974] [app] [INFO] login: 收到登录请求: 李华
+[2025-09-22 01:24:54,791] [app] [INFO] lifespan: 正在退出...
+[2025-09-22 01:24:54,791] [app] [INFO] lifespan: 已安全退出
+[2025-09-22 01:26:29,277] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-22 01:26:29,277] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-22 01:26:29,277] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-22 01:26:29,277] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html', '金融就业服务系统']
+[2025-09-22 01:26:29,278] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-22 01:26:29,282] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-22 01:26:29,282] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-22 01:26:29,671] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-22 01:26:29,671] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-22 01:26:29,672] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-22 01:26:29,672] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html', '金融就业服务系统']
+[2025-09-22 01:26:29,673] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-22 01:26:29,679] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-22 01:26:29,680] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-22 01:27:42,851] [app] [INFO] login: 收到登录请求: 李华
+[2025-09-22 01:29:23,284] [app] [INFO] login: 收到登录请求: 李华
+[2025-09-22 01:29:23,503] [app] [DEBUG] get_current_user: 尝试鉴权已登录用户...
+[2025-09-22 01:29:25,634] [app] [DEBUG] get_current_user: 尝试鉴权已登录用户...
+[2025-09-22 01:31:27,905] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-22 01:31:27,905] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-22 01:31:27,905] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-22 01:31:27,906] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html', '金融就业服务系统']
+[2025-09-22 01:31:27,906] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-22 01:31:27,910] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-22 01:31:27,910] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-22 01:31:55,697] [app] [INFO] login: 收到登录请求: 李华
+[2025-09-22 01:33:06,445] [app] [INFO] lifespan: 正在退出...
+[2025-09-22 01:33:06,446] [app] [INFO] lifespan: 已安全退出
+[2025-09-22 01:33:07,591] [app] [INFO] <module>: 项目根目录: D:\PythonCode\PyCrawler\FinancialCareerCommunity
+[2025-09-22 01:33:07,592] [app] [INFO] <module>: 前端目录路径: D:\PythonCode\PyCrawler\FinancialCareerCommunity\frontend
+[2025-09-22 01:33:07,592] [app] [INFO] <module>: 前端目录是否存在: True
+[2025-09-22 01:33:07,593] [app] [INFO] <module>: 前端目录内容: ['dashboard.html', 'login.html', 'register.html', '金融就业服务系统']
+[2025-09-22 01:33:07,593] [app] [INFO] <module>: HTML文件: ['dashboard.html', 'login.html', 'register.html']
+[2025-09-22 01:33:07,599] [app] [INFO] lifespan: 初始化 Server...
+[2025-09-22 01:33:07,600] [app] [INFO] load_db: 初始化数据库表...
+[2025-09-22 01:33:15,614] [app] [INFO] login: 收到登录请求: 李华
+[2025-09-22 01:33:16,056] [app] [DEBUG] get_current_user: 尝试鉴权已登录用户...
+[2025-09-22 01:33:18,127] [app] [DEBUG] get_current_user: 尝试鉴权已登录用户...
+[2025-09-22 01:34:08,391] [app] [INFO] lifespan: 正在退出...
+[2025-09-22 01:34:08,393] [app] [INFO] lifespan: 已安全退出
