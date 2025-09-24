@@ -18,7 +18,7 @@
 
 
 
-![image-20250924134906311](Imgs\1.png)
+![image-20250924134906311](Imgs/1.png)
 
 ```
    meta: {
@@ -50,7 +50,7 @@
 })
 ```
 
-![image-20250924135026523](Imgs\2.png)
+![image-20250924135026523](Imgs/2.png)
 
 ```
 // 路由守卫
@@ -88,7 +88,7 @@ router.beforeEach((to, from, next) => {
  }
 ```
 
-![image-20250924135054577](Imgs\3.png)
+![image-20250924135054577](Imgs/3.png)
 
 ### 2，frontend\金融就业服务系统\finance-employment\src\views\Login\index.vue
 
@@ -98,7 +98,7 @@ router.beforeEach((to, from, next) => {
 import { RouterLink, useRouter } from 'vue-router';
 ```
 
-![image-20250924135400249](Imgs\4.png)
+![image-20250924135400249](Imgs/4.png)
 
 ```
 import { ref } from 'vue';
@@ -123,7 +123,7 @@ const rules = {
     { min: 6, message: '密码长度至少为6位', trigger: 'blur' }
 ```
 
-![image-20250924135433709](Imgs\5.png)
+![image-20250924135433709](Imgs/5.png)
 
 ```
   ]
@@ -147,7 +147,7 @@ const handleLogin = async () => {
     // 登录成功，保存token
 ```
 
-![image-20250924135518674](Imgs\6.png)
+![image-20250924135518674](Imgs/6.png)
 
 ```
 const token = response.data.access_token;
@@ -170,7 +170,7 @@ router.push('/');
 };
 ```
 
-![image-20250924135538813](Imgs\7.png)
+![image-20250924135538813](Imgs/7.png)
 
                 <el-form ref="loginForm" :model="form" :rules="rules" class="login-form"  label-position="right" label-width = "40px" status-icon>
                     <el-form-item prop="username" label="账户">
@@ -179,7 +179,7 @@ router.push('/');
                     <el-form-item prop="password" label="密码">
                         <el-input v-model="form.password" type="password" placeholder="请输入密码" />
 
-![image-20250924140445384](Imgs\8.png)
+![image-20250924140445384](Imgs/8.png)
 
 ```
 <el-checkbox v-model="form.remember" class="checkbox">
@@ -190,7 +190,7 @@ router.push('/');
     	<RouterLink to="/register">还没有账号？立即注册</RouterLink>
      </div>
 
-![image-20250924140631551](Imgs\9.png)
+![image-20250924140631551](Imgs/9.png)
 
 ### 3，在frontend\金融就业服务系统\finance-employment\src\views下创建文件夹Register及之下的注册文件index.vue
 
@@ -238,7 +238,7 @@ uvicorn.run("app.main:app", host=config.host, port=config.port, reload=True)
 
 ### 7，auth_service.py的改变
 
-![image-20250924171550007](Imgs\11.png)
+![image-20250924171550007](Imgs/11.png)
 
 ## 三、运行与关闭
 
@@ -311,13 +311,13 @@ taskkill /f /im node.exe
 
 2. 前端这个文件我忘记在哪里的了，不确定有没有被ai改动过。
 
-![image-20250924160821878](Imgs\12.png)
+![image-20250924160821878](Imgs/12.png)
 
 3. 目录：里面这个README.md 没改。
 
    cookies 和 crawler_data 不重要可删。
 
-**![image-20250924235742112](Imgs\13.png)**
+**![image-20250924235742112](Imgs/13.png)**
 
 ## to be continue...
 
